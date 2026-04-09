@@ -7,7 +7,7 @@ Lorem ipsum....
 
 
 ## Code Structure
-
+```
 project/
 │
 ├── data/                   # CIFAR-10 downloads here automatically
@@ -20,4 +20,4 @@ project/
 │   └── plot_results.py     # Figures: accuracy curves, bias bar charts
 ├── results/                # Saved model weights, plots
 └── README.md               # Explains everything clearly
-
+```
