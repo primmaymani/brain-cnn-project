@@ -10,7 +10,7 @@ Lorem ipsum....
 ```
 project/
 │
-├── data/                   # CIFAR-10 downloads here automatically
+├── data/                   # CIFAR-10 downloads here 
 ├── models/
 │   ├── feedforward.py      # Your standard CNN
 │   └── recurrent.py        # Your recurrent CNN
